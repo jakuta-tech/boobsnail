@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="assets/boobsnail.png" width=300 height=300>
-</p>
-
 ![License](https://img.shields.io/badge/license-MIT-lightgrey.svg)
 
 Follow us on [Twitter](https://twitter.com/stm_cyber)!
